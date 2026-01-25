@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This portfolio was developed by myself, Even Becker, using Vuepress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev blog --clean-cache",
+    "build": "npm cache clean --force && vuepress build blog --clean-cache",
+    "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist",
+    "lint": "eslint . --ext .js,.vue,.ts",
+    "lint:fix": "eslint . --ext .js,.vue,.ts --fix",
+    "format": "prettier --write 'src/**/*.ts' 'src/**/*.vue'"
+  },
+  "author": "Even Becker",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/traverse": "^7.23.2",
+    "@typescript-eslint/eslint-plugin": "^6.4.1",
+    "@typescript-eslint/parser": "^6.4.1",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "prettier": "^3.0.2",
+    "rimraf": "^5.0.1",
+    "vuepress": "^2.0.0-beta.49",
+    "vuepress-theme-gungnir": "^2.0.0-alpha.26"
+  }
+}

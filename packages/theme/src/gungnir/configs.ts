@@ -1,0 +1,54 @@
+import { navbar } from './navbar'
+import { pages } from './pages'
+import { gungnirThemeExtended } from '../extended-theme/config'
+
+const isProd = process.env.NODE_ENV === 'production'
+
+export const gungnirThemeConfig = gungnirThemeExtended({
+  repo: 'EvnBecker/blog.EvnBecker.io',
+  docsDir: 'blog',
+  docsBranch: 'main',
+  personalInfo: {
+    name: "Hello, I'm Even Becker",
+    avatar: '/img/avatar.jpg',
+    description: 'Welcome to my website!',
+    sns: {
+      github: 'evenbecker',
+      linkedin: 'even-becker-0885a0169',
+    },
+  },
+  homeHeaderImages: [
+    {
+      path: '/img/home-bg/2.jpg',
+      mask: 'rgba(40, 57, 101, .2)',
+    },
+
+    {
+      path: '/img/home-bg/4.jpg',
+      mask: 'rgba(40, 57, 101, .2)',
+    },
+  ],
+  pages,
+  navbar,
+  themePlugins: {
+    git: isProd,
+    katex: true,
+    giscus: {
+      repo: 'EvnBecker/blog-giscus-comments',
+      repoId: 'R_kgDOKKsi9Q',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOKKsi9c4CY0Up',
+      darkTheme: 'dark',
+      lang: 'en',
+      lazyLoad: true,
+    },
+    mdPlus: {
+      all: true,
+    },
+  },
+  footer: `
+      <a href="https://github.com/EvnBecker" target="_blank">Even Becker</a>  &copy; 2026
+      <br>
+       Developed with <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> </a>
+    `,
+})

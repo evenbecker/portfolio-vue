@@ -1,0 +1,7 @@
+{
+ "compilerOptions": {
+  "paths": {
+   "@theme/*": ["node_modules/vuepress-theme-gungnir/lib/client/components/*"],
+  }
+ }
+}
