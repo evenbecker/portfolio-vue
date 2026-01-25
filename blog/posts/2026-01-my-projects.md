@@ -6,13 +6,17 @@ author: EvnBecker
 date: 2026-01-25
 useHeaderImage: true
 headerImage: /img/in-post/2026-01-25/header.jpg
-headerMask: rgb(14, 21, 5, .2)
+headerMask: rgb(14, 21, 5, .7)
 permalinkPattern: /post/:year/:month/:day/:slug/
 tags:
   - dev
   - api
 ---
 
-# in progress
+## in progress
 
 Well to create
+
+### in progress too
+
+too

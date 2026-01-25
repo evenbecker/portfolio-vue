@@ -3,7 +3,7 @@ export const pages = {
     subtitle: 'Explore my website by tags',
     bgImage: {
       path: '/img/pages/tags.jpg',
-      mask: 'rgba(58, 62, 92, 0.5)',
+      mask: 'rgba(13, 23, 100, 0.3)',
     },
   },
   links: {

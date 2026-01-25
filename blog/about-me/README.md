@@ -3,7 +3,7 @@ layout: About-Me
 title: About Me
 me: Even Becker
 image: /img/avatar.jpg
-description: 'Hey there, tech enthusiasts a'
+description: 'I am a full-stack developer.'
 
 sourceCode: https://github.com/...
 
