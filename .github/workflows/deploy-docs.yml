@@ -1,5 +1,4 @@
-
-name: Deploy Docs
+name: build-and-deploy
 
 on:
   push:
@@ -21,8 +20,6 @@ jobs:
           # if your docs needs submodules, uncomment the following line
           # submodules: true
 
-
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -32,16 +29,16 @@ jobs:
       - name: Install Deps
         run: npm ci
 
-      - name: Build Docs
+      - name: Build site
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          npm run docs:build
-          > docs/.vuepress/dist/.nojekyll
+          npm run build
+          > blog/.vuepress/dist/.nojekyll
 
-      - name: Deploy Docs
+      - name: Deploy site
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # This is the branch where the docs are deployed to
           branch: gh-pages
-          folder: docs/.vuepress/dist
+          folder: blog/.vuepress/dist
