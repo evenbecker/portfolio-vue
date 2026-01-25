@@ -47,7 +47,7 @@ export const gungnirThemeConfig = gungnirThemeExtended({
     },
   },
   footer: `
-      <a href="https://github.com/EvnBecker" target="_blank">Even Becker</a>  &copy; 2026
+      <a href="https://github.com/evenbecker" target="_blank">Even Becker</a>  &copy; 2026
       <br>
        Developed with <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> </a>
     `,
