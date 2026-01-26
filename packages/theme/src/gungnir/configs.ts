@@ -5,8 +5,8 @@ import { gungnirThemeExtended } from '../extended-theme/config'
 const isProd = process.env.NODE_ENV === 'production'
 
 export const gungnirThemeConfig = gungnirThemeExtended({
-  repo: 'evenbecker/evenbecker.github.io',
-  docsDir: 'portfolio-vue',
+  repo: 'evenbecker/portfolio-vue',
+  docsDir: 'blog',
   docsBranch: 'main',
   personalInfo: {
     name: "Hello, I'm Even Becker",
