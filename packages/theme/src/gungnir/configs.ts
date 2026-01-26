@@ -6,7 +6,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export const gungnirThemeConfig = gungnirThemeExtended({
   repo: 'evenbecker/evenbecker.github.io',
-  docsDir: 'blog',
+  docsDir: 'portfolio-vue',
   docsBranch: 'main',
   personalInfo: {
     name: "Hello, I'm Even Becker",
