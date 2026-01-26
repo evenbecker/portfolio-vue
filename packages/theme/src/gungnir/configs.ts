@@ -33,15 +33,6 @@ export const gungnirThemeConfig = gungnirThemeExtended({
   themePlugins: {
     git: isProd,
     katex: true,
-    giscus: {
-      repo: 'EvnBecker/blog-giscus-comments',
-      repoId: 'R_kgDOKKsi9Q',
-      category: 'Announcements',
-      categoryId: 'DIC_kwDOKKsi9c4CY0Up',
-      darkTheme: 'dark',
-      lang: 'en',
-      lazyLoad: true,
-    },
     mdPlus: {
       all: true,
     },
