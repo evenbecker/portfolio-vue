@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { gungnirThemeConfig } from '../../packages/theme/src/gungnir/configs'
 export default defineUserConfig({
+  base: '/blog/',
   title: 'Even Becker',
   description: 'software developer',
   bundler: viteBundler(),
