@@ -5,7 +5,7 @@ me: Even Becker
 image: /img/avatar.jpg
 description: 'I am a full-stack developer.'
 
-sourceCode: https://github.com/...
+sourceCode: https://github.com/evenbecker/portfolio-vue
 
 Tech stack:
   - desc: I have experience in the following web technologies
