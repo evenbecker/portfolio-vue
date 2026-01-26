@@ -11,6 +11,10 @@
     "lint:fix": "eslint . --ext .js,.vue,.ts --fix",
     "format": "prettier --write 'src/**/*.ts' 'src/**/*.vue'"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evenbecker/portfolio.git"
+  },
   "author": "Even Becker",
   "license": "MIT",
   "devDependencies": {
