@@ -1,3 +1,8 @@
-# My personal website
+# My personal portfolio website
 
-It is deployed on the web: todo url
+This portfolio was designed and developed by myself, Even Becker, using Vuepress and TypeScript.
+It's currently deployed on the web: [evenbecker.netlify.app](https://evenbecker.netlify.app/).
+
+# Author
+
+Even Becker, software developer
