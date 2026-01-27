@@ -15,7 +15,9 @@ tags:
 
 ## in progress
 
-Well to create
+A table to use the Dragon Ball API
+
+[![blog](https://img.shields.io/badge/Netlify-deployement-red?style=flat-square)](https://table-dragon-ball.netlify.app/)
 
 ### in progress too
 
