@@ -21,3 +21,5 @@ miscellaneous:
 ## Miscellaneous
 
 - My profile picture is inspired by the anime in [EmiliaMerge](http://www.youtube.com/@emiliamerge7201) videos about Linux.
+- I started software development as research scholar
+  [![blog](https://img.shields.io/badge/ORCID-publications-red?style=flat-square)](https://orcid.org/0000-0002-2004-9472)

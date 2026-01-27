@@ -2,7 +2,7 @@
 layout: Links
 title: Links
 links:
-  - title: My Projects
+  - title: Projects deployed on Netlify
     items:
       - sitename: A table to use the Dragon Ball API
         url: https://table-dragon-ball.netlify.app/
