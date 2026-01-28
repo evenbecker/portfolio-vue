@@ -10,14 +10,15 @@ headerMask: rgb(14, 21, 5, .7)
 permalinkPattern: /post/:year/:month/:day/:slug/
 tags:
   - dev
-  - api
+  - API
+  - Angular
 ---
 
-| Project name                       | source code                           | deployement                       | tech stack |
-| ---------------------------------- | ------------------------------------- | --------------------------------- | ---------- |
-| A table to use the Dragon Ball API | [![dragon2][GitHub]][dragon-ball-git] | [![dragon][Netlify]][dragon-ball] | [Angular]  |
-| Alice                              | 25                                    | USA                               | toti       |
-| Bob                                | 30                                    | Canada                            | toti       |
+| Project name                        | source code                          | deployement                        | tech stack                            |
+| ----------------------------------- | ------------------------------------ | ---------------------------------- | ------------------------------------- |
+| A table to use the Dragon Ball API  | [![GitHub][GitHub]][dragon-ball-git] | [![Netlify][Netlify]][dragon-ball] | [![Angular][Angular.io]][Angular-url] |
+| The Recipes Finder                  | [![GitHub][GitHub]][recipes-git]     | [![Netlify][Netlify]][recipes]     | [![Angular][Angular.io]][Angular-url] |
+| Pokémon Gen II: A Nostalgia Project | [![GitHub][GitHub]][pokemon-git]     | [![Netlify][Netlify]][pokemon]     | [![Angular][Angular.io]][Angular-url] |
 
 ---
 
@@ -30,15 +31,9 @@ tags:
 <div align='center'>
 <a href="https://table-dragon-ball.netlify.app/">
 <img src="https://img.shields.io/badge/demo-d95652.svg?style=flat-square" alt="demo" style="height: 2rem;">
-</a> 
-<a href="https://github.com/evenbecker/table-dragon-ball-api">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 2rem;">
 </a>
-</div>
 
-[![dragon][Netlify]][dragon-ball]
-[![dragon2][GitHub]][dragon-ball-git]
-[![Angular][Angular.io]][Angular-url]
+</div>
 
 <a href="https://kaosx.us/" target="_blank"> 
 <img src="https://img.shields.io/badge/Website-KaOS-blue" style="height: 3rem;">
@@ -50,4 +45,7 @@ tags:
 [dragon-ball]: https://table-dragon-ball.netlify.app/
 [Netlify]: https://img.shields.io/badge/Netlify-282727?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [dragon-ball-git]: https://github.com/evenbecker/table-dragon-ball-api
-[dragon-ball-git-img]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[recipes]: https://even-recipes-finder.netlify.app/
+[recipes-git]: https://github.com/evenbecker/The-Recipes-Finder
+[pokemon]: https://pokemon-gen2.netlify.app/
+[pokemon-git]: https://github.com/evenbecker/pokemon-gen2

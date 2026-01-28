@@ -20,4 +20,8 @@ links:
         url: https://init-freedom.netlify.app/
         img: /img/links/unknown-person.jpg
         desc: The best systemd-free distros for daily use are presented. @IBM I use Fedora at work. Peace.
+      - sitename: Alt Rock Blog
+        url: https://archive-evenbecker.netlify.app/
+        img: /img/links/unknown-person.png
+        desc: Work in progress
 ---
