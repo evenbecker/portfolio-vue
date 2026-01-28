@@ -14,34 +14,35 @@ tags:
   - Angular
 ---
 
-| Project name                        | source code                          | deployement                        | tech stack                            |
-| ----------------------------------- | ------------------------------------ | ---------------------------------- | ------------------------------------- |
+| Project name                        | source code                          |            deployement             | tech stack                            |
+| ----------------------------------- | ------------------------------------ | :--------------------------------: | ------------------------------------- |
 | A table to use the Dragon Ball API  | [![GitHub][GitHub]][dragon-ball-git] | [![Netlify][Netlify]][dragon-ball] | [![Angular][Angular.io]][Angular-url] |
-| The Recipes Finder                  | [![GitHub][GitHub]][recipes-git]     | [![Netlify][Netlify]][recipes]     | [![Angular][Angular.io]][Angular-url] |
-| Pokémon Gen II: A Nostalgia Project | [![GitHub][GitHub]][pokemon-git]     | [![Netlify][Netlify]][pokemon]     | [![Angular][Angular.io]][Angular-url] |
+| The Recipes Finder                  | [![GitHub][GitHub]][recipes-git]     |   [![Netlify][Netlify]][recipes]   | [![Angular][Angular.io]][Angular-url] |
+| Pokémon Gen II: A Nostalgia Project | [![GitHub][GitHub]][pokemon-git]     |   [![Netlify][Netlify]][pokemon]   | [![Angular][Angular.io]][Angular-url] |
+| An app for ordering food            | [![GitHub][GitHub]][food]            |                 x                  | [![.NET][.NET]][Angular-url]          |
+| The Initial D Cars App              | [![GitHub][GitHub]][inid]            |                 x                  | [![.NET][.NET]][Angular-url]          |
+| A simple audio player               | [![GitHub][GitHub]][audio-git]       |    [![Netlify][Netlify]][audio]    | [![TypeScript][Vue.js]][Vue-url]      |
 
 ---
 
 :construction: <sub>Work in Progress (WIP)</sub>
 
+<!--
 <p align="center">
   centered text
 </p>
 
-<div align='center'>
-<a href="https://table-dragon-ball.netlify.app/">
-<img src="https://img.shields.io/badge/demo-d95652.svg?style=flat-square" alt="demo" style="height: 2rem;">
-</a>
-
-</div>
-
-<a href="https://kaosx.us/" target="_blank"> 
+<a href="https://kaosx.us/" target="_blank">
 <img src="https://img.shields.io/badge/Website-KaOS-blue" style="height: 3rem;">
 </a>
+-->
 
 [GitHub]: https://img.shields.io/badge/GitHub-282727?style=for-the-badge&logo=github&logoColor=white
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[.NET]: https://img.shields.io/badge/Angular_+_.NET_+_SQL_Server-512BD4?style=for-the-badge&logo=angular&logoColor=fff
+[Vue.js]: https://img.shields.io/badge/Vue.js_+_TypeScript-0F804D?style=for-the-badge&logo=vuedotjs&logoColor=fff
 [Angular-url]: https://angular.io/
+[Vue-url]: https://vuejs.org/
 [dragon-ball]: https://table-dragon-ball.netlify.app/
 [Netlify]: https://img.shields.io/badge/Netlify-282727?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [dragon-ball-git]: https://github.com/evenbecker/table-dragon-ball-api
@@ -49,3 +50,7 @@ tags:
 [recipes-git]: https://github.com/evenbecker/The-Recipes-Finder
 [pokemon]: https://pokemon-gen2.netlify.app/
 [pokemon-git]: https://github.com/evenbecker/pokemon-gen2
+[food]: https://github.com/evenbecker/App-for-ordering-food
+[inid]: https://github.com/evenbecker/Initial-D-App
+[audio-git]: https://github.com/evenbecker/simple-audio-player
+[audio]: https://even-audio-player.netlify.app/
