@@ -37,10 +37,10 @@ tags:
 </a>
 -->
 
-[GitHub]: https://img.shields.io/badge/GitHub-282727?style=for-the-badge&logo=github&logoColor=white
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[.NET]: https://img.shields.io/badge/Angular_+_.NET_+_SQL_Server-512BD4?style=for-the-badge&logo=angular&logoColor=fff
-[Vue.js]: https://img.shields.io/badge/Vue.js_+_TypeScript-0F804D?style=for-the-badge&logo=vuedotjs&logoColor=fff
+[GitHub]: https://img.shields.io/badge/GitHub-282727?style=plastic&logo=github&logoColor=white
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white
+[.NET]: https://img.shields.io/badge/Angular_+_.NET_+_SQL_Server-512BD4?style=plastic&logo=angular&logoColor=fff
+[Vue.js]: https://img.shields.io/badge/Vue.js_+_TypeScript-0F804D?style=plastic&logo=vuedotjs&logoColor=fff
 [Angular-url]: https://angular.io/
 [Vue-url]: https://vuejs.org/
 [dragon-ball]: https://table-dragon-ball.netlify.app/

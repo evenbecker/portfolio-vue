@@ -1,4 +1,4 @@
-import { GungnirThemePageFrontmatter } from "vuepress-theme-gungnir";
+import { GungnirThemePageFrontmatter } from 'vuepress-theme-gungnir';
 
 interface PlaceLink {
   placeName: string;
@@ -8,12 +8,10 @@ interface PlaceLink {
 interface ExperienceItem {
   name: string;
   company: PlaceLink;
-  year?: string
+  year?: string;
   extras?: string;
 }
-interface MiscellaneousItem {
-  desc: string;
-}
+
 export interface GungnirThemeAboutMePageFrontmatter
   extends GungnirThemePageFrontmatter {
   title: string;
@@ -21,7 +19,6 @@ export interface GungnirThemeAboutMePageFrontmatter
   description: string;
   cvLink?: string;
   sourceCode?: string;
-  image?: string
+  image?: string;
   experience?: Array<ExperienceItem>;
-  miscellaneous?: Array<MiscellaneousItem>
 }

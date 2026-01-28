@@ -28,48 +28,11 @@
           </a>
         </div>
 
-        <h2>Experience</h2>
-        <div
-          v-for="(experienceItem, experienceId) in frontmatter.experience"
-          :key="`experience-group-${experienceId}`"
-          class="top-line-wrapper"
-        >
-          <div class="line-content">
-            <p>
-              <span>
-                <b>{{ experienceItem.name }}</b
-                ><span v-if="experienceItem.company" style="display: inline">
-                  at
-                </span>
-                <a
-                  v-if="experienceItem.company"
-                  :href="experienceItem.company.url"
-                  target="_blank"
-                >
-                  {{ experienceItem.company.placeName }}
-                </a>
-              </span>
-              <span class="line-content__year">{{ experienceItem.year }}</span>
-            </p>
-            <span
-              v-if="experienceItem.extras"
-              class="line-content__description"
-              >{{ experienceItem.extras }}</span
-            >
-          </div>
-        </div>
+        <h2>Tech Stack</h2>
+        <p>I have experience in the following web technologies</p>
 
         <h2>Miscellaneous</h2>
-        <ul>
-          <li
-            v-for="(
-              miscellaneousItem, miscellaneousId
-            ) in frontmatter.miscellaneous"
-            :key="`experience-group-${miscellaneousId}`"
-          >
-            {{ miscellaneousItem.desc }}
-          </li>
-        </ul>
+
         <p>
           My profile picture is inspired by the anime in
           <a href="http://www.youtube.com/@emiliamerge7201" target="_blank">
