@@ -1,13 +1,14 @@
-import { navbar } from './navbar'
-import { pages } from './pages'
-import { gungnirThemeExtended } from '../extended-theme/config'
+import { navbar } from './navbar';
+import { pages } from './pages';
+import { gungnirThemeExtended } from '../extended-theme/config';
 
-const isProd = process.env.NODE_ENV === 'production'
+const isProd = process.env.NODE_ENV === 'production';
 
 export const gungnirThemeConfig = gungnirThemeExtended({
   repo: 'evenbecker/portfolio-vue',
   docsDir: 'blog',
   docsBranch: 'main',
+
   personalInfo: {
     name: "Hello, I'm Even Becker",
     avatar: '/img/avatar.jpg',
@@ -42,4 +43,4 @@ export const gungnirThemeConfig = gungnirThemeExtended({
       <br>
        Developed with <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> </a>
     `,
-})
+});

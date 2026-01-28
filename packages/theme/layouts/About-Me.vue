@@ -29,10 +29,39 @@
         </div>
 
         <h2>Tech Stack</h2>
-        <p>I have experience in the following web technologies</p>
+        <p>I have experience in the following web technologies:</p>
+        <div class="even-tech-bg-color">
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/DotNetCoreLogoVector.svg.png" alt=" " />
+              <div class="logo-content">
+                <p>ASP.NET Web API</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/DotNetCoreLogoVector.svg.png" alt=" " />
+              <div class="logo-content">
+                <p>ASP.NET Web API</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <h2>Miscellaneous</h2>
-
+        <p>
+          I don't google; I
+          <a href="https://www.startpage.com/" target="_blank"> startpage</a>
+          with the Brave browser or Waterfox.
+        </p>
+        <p>
+          I wrote
+          <a href="https://orcid.org/0000-0002-2004-9472" target="_blank">
+            some publications
+          </a>
+          about digital privacy, 5G and Wi-Fi.
+        </p>
         <p>
           My profile picture is inspired by the anime in
           <a href="http://www.youtube.com/@emiliamerge7201" target="_blank">
@@ -71,4 +100,44 @@ const pageInfo = computed(() => {
 
 <style lang="scss">
 @import '../src/extended-theme/custom-pages/aboutMe.scss';
+.even-tech-bg-color {
+  background-color: beige;
+  margin-bottom: 1rem;
+}
+.pseudo-col {
+  margin: 5px;
+  max-width: 180px;
+  min-width: 180px;
+}
+.logo-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  /*background: rgba(0, 0, 0, 0.6);*/
+  color: hsl(305, 32%, 24%);
+}
+.logo-item {
+  height: 9em;
+  border-radius: 15px;
+  border: 1px solid #74747468;
+  background-color: white;
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.logo-item:hover {
+  transform: scale(1.05);
+}
+.logo-item img {
+  width: 5em;
+  height: auto;
+  padding-top: 1.5em;
+  display: block;
+  margin: auto;
+}
 </style>
