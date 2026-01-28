@@ -15,7 +15,7 @@ experience:
       url:
 
 miscellaneous:
-  - desc: 'My profile picture is inspired by the anime in [EmiliaMerge](http://www.youtube.com/@emiliamerge7201) videos about Linux.'
+  - desc: test
 ---
 
 ## Miscellaneous
