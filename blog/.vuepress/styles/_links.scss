@@ -1,4 +1,10 @@
+.link-group {
+  grid-template-columns: repeat(2, 49.5%);
+}
+
 .link-item {
+  /*max-width: 362px;
+  min-width: 362px;*/
   display: flex;
   flex-direction: column;
 
