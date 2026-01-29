@@ -33,9 +33,9 @@
         <div class="even-tech-bg-color">
           <div class="pseudo-col">
             <div class="logo-item">
-              <img src="/img/about/DotNetCoreLogoVector.svg.png" alt=" " />
+              <img src="/img/about/Git.png" alt=" " />
               <div class="logo-content">
-                <p>ASP.NET Web API</p>
+                <p>Git</p>
               </div>
             </div>
           </div>
@@ -44,6 +44,110 @@
               <img src="/img/about/DotNetCoreLogoVector.svg.png" alt=" " />
               <div class="logo-content">
                 <p>ASP.NET Web API</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Java.png" alt=" " />
+              <div class="logo-content">
+                <p>Java</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/python-icon.svg" alt=" " />
+              <div class="logo-content">
+                <p>Python</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/TypeScript.png" alt=" " />
+              <div class="logo-content">
+                <p>TypeScript</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/PostgresSQL.png" alt=" " />
+              <div class="logo-content">
+                <p>PostgreSQL</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/vite-icon.svg" alt=" " />
+              <div class="logo-content">
+                <p>Vite</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Angular.png" alt=" " />
+              <div class="logo-content">
+                <p>Angular</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Next.js.png" alt=" " />
+              <div class="logo-content">
+                <p>Next.js</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/React.png" alt=" " />
+              <div class="logo-content">
+                <p>React</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Material-UI.png" alt=" " />
+              <div class="logo-content">
+                <p>Material UI</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Vue.js.png" alt=" " />
+              <div class="logo-content">
+                <p>Vue 3</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/sass-icon.svg" alt=" " />
+              <div class="logo-content">
+                <p>Sass</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Tailwind-CSS.png" alt=" " />
+              <div class="logo-content">
+                <p>Tailwind-CSS</p>
+              </div>
+            </div>
+          </div>
+          <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Bootstrap.svg" alt=" " />
+              <div class="logo-content">
+                <p>Bootstrap 5</p>
               </div>
             </div>
           </div>
@@ -101,27 +205,31 @@ const pageInfo = computed(() => {
 <style lang="scss">
 @import '../src/extended-theme/custom-pages/aboutMe.scss';
 .even-tech-bg-color {
+  width: 100%;
   background-color: beige;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-left: 16px;
   display: flex;
   flex-wrap: wrap;
+  border-radius: 10px;
 }
 .pseudo-col {
   margin: 5px;
-  max-width: 180px;
-  min-width: 180px;
+  max-width: 170px;
+  min-width: 170px;
 }
 .logo-content {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   padding-left: 15px;
   padding-right: 15px;
   /*background: rgba(0, 0, 0, 0.6);*/
-  color: hsl(305, 32%, 24%);
+  text-align: center;
+  color: hsl(155, 66%, 15%);
 }
 .logo-item {
   height: 9em;
@@ -139,7 +247,7 @@ const pageInfo = computed(() => {
 .logo-item img {
   width: 5em;
   height: auto;
-  padding-top: 1.5em;
+  padding-top: 1em;
   display: block;
   margin: auto;
 }
