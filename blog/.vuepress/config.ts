@@ -1,6 +1,6 @@
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defineUserConfig } from 'vuepress'
-import { gungnirThemeConfig } from '../../packages/theme/src/gungnir/configs'
+import { viteBundler } from '@vuepress/bundler-vite';
+import { defineUserConfig } from 'vuepress';
+import { gungnirThemeConfig } from '../../packages/theme/src/gungnir/configs';
 export default defineUserConfig({
   title: 'Even Becker',
   description: 'software developer',
@@ -39,14 +39,7 @@ export default defineUserConfig({
         href: `/img/logo/site.webmanifest`,
       },
     ],
-    [
-      'link',
-      {
-        rel: 'mask-icon',
-        href: `/img/logo/safari-pinned-tab.svg`,
-        color: '#5bbad5',
-      },
-    ],
+
     ['meta', { name: 'application-name', content: 'Even Becker' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'Even Becker' }],
     [
@@ -65,4 +58,4 @@ export default defineUserConfig({
       lineNumbers: false,
     },
   },
-})
+});

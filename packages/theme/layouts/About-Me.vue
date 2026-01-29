@@ -103,6 +103,9 @@ const pageInfo = computed(() => {
 .even-tech-bg-color {
   background-color: beige;
   margin-bottom: 1rem;
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
 }
 .pseudo-col {
   margin: 5px;
