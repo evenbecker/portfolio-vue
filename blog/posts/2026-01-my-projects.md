@@ -14,14 +14,14 @@ tags:
   - Angular
 ---
 
-| Project name                        | source code                          |            deployement             | tech stack                            |
-| ----------------------------------- | ------------------------------------ | :--------------------------------: | ------------------------------------- |
-| A table to use the Dragon Ball API  | [![GitHub][GitHub]][dragon-ball-git] | [![Netlify][Netlify]][dragon-ball] | [![Angular][Angular.io]][Angular-url] |
-| The Recipes Finder                  | [![GitHub][GitHub]][recipes-git]     |   [![Netlify][Netlify]][recipes]   | [![Angular][Angular.io]][Angular-url] |
-| Pokémon Gen II: A Nostalgia Project | [![GitHub][GitHub]][pokemon-git]     |   [![Netlify][Netlify]][pokemon]   | [![Angular][Angular.io]][Angular-url] |
-| An app for ordering food            | [![GitHub][GitHub]][food]            |                 x                  | [![.NET][.NET]][Angular-url]          |
-| The Initial D Cars App              | [![GitHub][GitHub]][inid]            |                 x                  | [![.NET][.NET]][Angular-url]          |
-| A simple audio player               | [![GitHub][GitHub]][audio-git]       |    [![Netlify][Netlify]][audio]    | [![TypeScript][Vue.js]][Vue-url]      |
+| Project name                        |             demo             |             source code              | tech stack                            |
+| ----------------------------------- | :--------------------------: | :----------------------------------: | ------------------------------------- |
+| A table to use the Dragon Ball API  | [![demo][demo]][dragon-ball] | [![GitHub][GitHub]][dragon-ball-git] | [![Angular][Angular.io]][Angular-url] |
+| The Recipes Finder                  |   [![demo][demo]][recipes]   |   [![GitHub][GitHub]][recipes-git]   | [![Angular][Angular.io]][Angular-url] |
+| Pokémon Gen II: A Nostalgia Project |   [![demo][demo]][pokemon]   |   [![GitHub][GitHub]][pokemon-git]   | [![Angular][Angular.io]][Angular-url] |
+| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | [![.NET][.NET]][Angular-url]          |
+| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | [![.NET][.NET]][Angular-url]          |
+| A simple audio player               |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | [![TypeScript][Vue.js]][Vue-url]      |
 
 ---
 
@@ -54,3 +54,4 @@ tags:
 [inid]: https://github.com/evenbecker/Initial-D-App
 [audio-git]: https://github.com/evenbecker/simple-audio-player
 [audio]: https://even-audio-player.netlify.app/
+[demo]: https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg

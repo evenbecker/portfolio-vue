@@ -10,7 +10,7 @@ export const navbar = [
     icon: 'fa-tag',
   },
   {
-    text: 'Links',
+    text: 'Projects',
     link: '/links/',
     icon: 'co-external-link',
   },
@@ -19,4 +19,4 @@ export const navbar = [
     link: '/about-me/',
     icon: 'fa-user',
   },
-]
+];
