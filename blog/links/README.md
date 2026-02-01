@@ -16,7 +16,7 @@ links:
         url: https://pokemon-gen2.netlify.app/
         img: /img/links/Pokemon_Mewtwo.png
         desc: A Nostalgia Project
-      - sitename: A responsive website about init freedom
+      - sitename: A website about init freedom
         url: https://init-freedom.netlify.app/
         img: /img/links/unknown-person.jpg
         desc: The best systemd-free distros for daily use are presented. @IBM I use Fedora at work. Peace.
@@ -24,4 +24,14 @@ links:
         url: https://archive-evenbecker.netlify.app/
         img: /img/links/unknown-person.png
         desc: Work in progress
+  - title: Projects made with .NET as backend
+    items:
+      - sitename: The Initial D Cars App
+        url: https://github.com/evenbecker/Initial-D-App
+        img: /img/links/First_Stage_logo.jpg
+        desc: A visitor mode for viewing cars. An admin mode for adding and deleting cars.
+      - sitename: App for ordering food
+        url: https://github.com/evenbecker/App-for-ordering-food
+        img: /img/links/food.png
+        desc: The user can add/remove dish items in a cart. Billing is handled for multiple users.
 ---
