@@ -22,7 +22,7 @@ links:
         desc: The best systemd-free distros for daily use are presented. @IBM I use Fedora at work. Peace.
       - sitename: Alt Rock Blog
         url: https://archive-evenbecker.netlify.app/
-        img: /img/links/unknown-person.png
+        img: /img/links/LP.jpg
         desc: Work in progress
   - title: Projects made with .NET as backend
     items:
