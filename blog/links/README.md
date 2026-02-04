@@ -18,12 +18,12 @@ links:
         desc: A Nostalgia Project
       - sitename: A website about init freedom
         url: https://init-freedom.netlify.app/
-        img: /img/links/unknown-person.jpg
+        img: /img/links/nosystemd.png
         desc: The best systemd-free distros for daily use are presented. @IBM I use Fedora at work. Peace.
-      - sitename: Alt Rock Blog
+      - sitename: The Alt Rock Station
         url: https://archive-evenbecker.netlify.app/
         img: /img/links/LP.jpg
-        desc: Work in progress
+        desc: A blog about Alternative rock/metal and an audio player with image cover.
   - title: Projects made with .NET as backend
     items:
       - sitename: The Initial D Cars App
