@@ -10,12 +10,12 @@ links:
         desc: You can get infos about Goku, Vegeta and many other characters of Dragon Ball Z
       - sitename: The Recipes Finder
         url: https://even-recipes-finder.netlify.app/
-        img: /img/links/unknown-person.png
+        img: /img/links/recipes-finder.webp
         desc: Discover thousands of recipes from all around the world!
       - sitename: Pokémon Gen II
         url: https://pokemon-gen2.netlify.app/
         img: /img/links/Pokemon_Mewtwo.png
-        desc: A Nostalgia Project
+        desc: A Nostalgia Project. The original set of 251 Pokémons released in 2000 is the best.
       - sitename: A website about init freedom
         url: https://init-freedom.netlify.app/
         img: /img/links/nosystemd.png

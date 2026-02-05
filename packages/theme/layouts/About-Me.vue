@@ -12,20 +12,18 @@
         </div>
 
         <div class="about-me__links">
-          <a
-            v-if="frontmatter.cvLink"
-            :href="frontmatter.cvLink"
-            target="_blank"
-          >
-            Curriculum Vitae
-          </a>
-          <a
-            v-if="frontmatter.sourceCode"
-            :href="frontmatter.sourceCode"
-            target="_blank"
-          >
-            Source Code
-          </a>
+          <p>
+            Check my table of
+            <a
+              v-if="frontmatter.sourceCode"
+              :href="frontmatter.sourceCode"
+              target="_blank"
+            >
+              Github Readme
+            </a>
+            to get more details about the tech stack and features of my
+            projects.
+          </p>
         </div>
 
         <h2>Tech Stack</h2>

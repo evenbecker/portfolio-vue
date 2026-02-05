@@ -5,7 +5,7 @@ me: Even Becker
 image: /img/avatar.jpg
 description: "I'm a full-stack developer. "
 
-sourceCode: https://github.com/evenbecker/portfolio-vue
+sourceCode: https://evenbecker.netlify.app/post/2026/01/27/my-projects/
 ---
 
 ## Miscellaneous
