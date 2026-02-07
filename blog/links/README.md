@@ -21,7 +21,7 @@ links:
         img: /img/links/nosystemd.png
         desc: The best systemd-free distros for daily use are presented. @IBM I use Fedora at work. Peace.
       - sitename: The Alt Rock Station
-        url: https://archive-evenbecker.netlify.app/
+        url: https://even-audio-player.netlify.app/
         img: /img/links/LP.jpg
         desc: A blog about Alternative rock/metal and an audio player with image cover.
   - title: Projects made with .NET as backend

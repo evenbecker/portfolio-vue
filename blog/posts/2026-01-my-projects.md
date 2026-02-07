@@ -21,7 +21,7 @@ tags:
 | Pokémon Gen II: A Nostalgia Project |   [![demo][demo]][pokemon]   |   [![GitHub][GitHub]][pokemon-git]   | [![Angular][Angular.io]][Angular-url] |
 | An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | [![.NET][.NET]][Angular-url]          |
 | The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | [![.NET][.NET]][Angular-url]          |
-| A simple audio player               |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | [![TypeScript][Vue.js]][Vue-url]      |
+| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | [![TypeScript][Vue.js]][Vue-url]      |
 
 ---
 

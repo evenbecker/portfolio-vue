@@ -13,15 +13,24 @@
 
         <div class="about-me__links">
           <p>
-            Check my table of
+            Check my
+            <a
+              href="https://www.linkedin.com/in/even-becker-0885a0169"
+              target="_blank"
+            >
+              Linkedin page</a
+            >
+            to know more about my work experience as a software engineer.
+            <br />
+            Check my list of
             <a
               v-if="frontmatter.sourceCode"
               :href="frontmatter.sourceCode"
               target="_blank"
             >
-              Github Readme
+              Github Readme files
             </a>
-            to get more details about the tech stack and features of my
+            to get more details about the tech stack and features of my personal
             projects.
           </p>
         </div>
@@ -204,7 +213,7 @@ const pageInfo = computed(() => {
 @import '../src/extended-theme/custom-pages/aboutMe.scss';
 .even-tech-bg-color {
   width: 100%;
-  background-color: beige;
+  background-color: rgb(223, 233, 245);
   padding-bottom: 1rem;
   padding-top: 1rem;
   padding-left: 16px;
@@ -227,7 +236,7 @@ const pageInfo = computed(() => {
   padding-right: 15px;
   /*background: rgba(0, 0, 0, 0.6);*/
   text-align: center;
-  color: hsl(155, 66%, 15%);
+  color: black;
 }
 .logo-item {
   height: 9em;
