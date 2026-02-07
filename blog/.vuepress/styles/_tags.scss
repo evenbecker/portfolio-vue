@@ -1,3 +1,11 @@
+:root {
+  --c-text-sub: hsl(0, 0%, 20%);
+}
+
+html.dark {
+  --c-text-sub: hsl(0, 0%, 80%);
+}
+
 .tags-wrapper section {
   .item {
     .subtitle {
