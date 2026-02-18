@@ -13,15 +13,17 @@ tags:
   - API
   - Angular
 ---
+An entertaining overview of my projects is [available here](https://evenbecker.netlify.app/links/).
 
 | Project name                        |             demo             |             source code              | tech stack                            |
 | ----------------------------------- | :--------------------------: | :----------------------------------: | ------------------------------------- |
 | A table to use the Dragon Ball API  | [![demo][demo]][dragon-ball] | [![GitHub][GitHub]][dragon-ball-git] | [![Angular][Angular.io]][Angular-url] |
 | The Recipes Finder                  |   [![demo][demo]][recipes]   |   [![GitHub][GitHub]][recipes-git]   | [![Angular][Angular.io]][Angular-url] |
 | Pokémon Gen II: A Nostalgia Project |   [![demo][demo]][pokemon]   |   [![GitHub][GitHub]][pokemon-git]   | [![Angular][Angular.io]][Angular-url] |
-| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | [![.NET][.NET]][Angular-url]          |
-| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | [![.NET][.NET]][Angular-url]          |
-| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | [![TypeScript][Vue.js]][Vue-url]      |
+| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | .NET, Angular           |
+| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | .NET, Angular          |
+| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3      |
+| A basic sales API               |    x   |    [![GitHub][GitHub]][sales]    | Spring Boot, Java     |
 
 ---
 
@@ -52,6 +54,7 @@ tags:
 [pokemon-git]: https://github.com/evenbecker/pokemon-gen2
 [food]: https://github.com/evenbecker/App-for-ordering-food
 [inid]: https://github.com/evenbecker/Initial-D-App
+[sales]: https://github.com/evenbecker/basic-sales-API
 [audio-git]: https://github.com/evenbecker/simple-audio-player
 [audio]: https://even-audio-player.netlify.app/
 [demo]: https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg
