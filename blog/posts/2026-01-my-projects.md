@@ -24,6 +24,7 @@ An entertaining overview of my projects is [available here](https://evenbecker.n
 | The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | .NET, Angular          |
 | The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3      |
 | A basic sales API               |    x   |    [![GitHub][GitHub]][sales]    | Spring Boot, Java     |
+| The healthcare app              |    x   |    [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |
 
 ---
 
@@ -55,6 +56,7 @@ An entertaining overview of my projects is [available here](https://evenbecker.n
 [food]: https://github.com/evenbecker/App-for-ordering-food
 [inid]: https://github.com/evenbecker/Initial-D-App
 [sales]: https://github.com/evenbecker/basic-sales-API
+[healthcare]: https://github.com/evenbecker/healthcare
 [audio-git]: https://github.com/evenbecker/simple-audio-player
 [audio]: https://even-audio-player.netlify.app/
 [demo]: https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg

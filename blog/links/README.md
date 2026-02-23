@@ -29,7 +29,11 @@ links:
       - sitename: A basic sales API
         url: https://github.com/evenbecker/basic-sales-API
         img: /img/links/vecteezy_a-blue-arrow-and-a-graph.jpg
-        desc: REST API design to manage sales. The average daily sales can be calculated with custom durations.
+        desc: REST API design to manage sales. The average daily sales can be calculated with custom durations.           
+      - sitename: The healthcare app
+        url: https://github.com/evenbecker/healthcare
+        img: /img/links/medical-logo.jpg
+        desc: A full-stack app made with Spring Boot, Java, HyperSQL and Angular. The practitioners can organize and schedule examinations for their patients in different places.
   - title: Projects made with .NET as backend
     items:
       - sitename: The Initial D Cars App
