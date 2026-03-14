@@ -2,7 +2,7 @@ export const navbar = [
   {
     text: 'Home',
     link: '/',
-    icon: 'fa-fort-awesome',
+    icon: 'co-arch-linux',
   },
   {
     text: 'Tags',
