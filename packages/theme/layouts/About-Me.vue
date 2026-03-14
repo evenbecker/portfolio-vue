@@ -23,11 +23,7 @@
             to know more about my work experience as a software engineer.
             <br />
             Check my list of
-            <a
-              v-if="frontmatter.sourceCode"
-              :href="frontmatter.sourceCode"
-              target="_blank"
-            >
+            <a href="../post/2026/01/27/my-projects" target="_blank">
               Github Readme files
             </a>
             to get more details about the tech stack and features of my personal

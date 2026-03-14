@@ -13,18 +13,21 @@ tags:
   - API
   - Angular
 ---
-An entertaining overview of my projects is [available here](https://evenbecker.netlify.app/links/).
+
+An entertaining overview of my projects is
+<a href="../../../../../links/" target="_blank">
+available here</a>.
 
 | Project name                        |             demo             |             source code              | tech stack                            |
 | ----------------------------------- | :--------------------------: | :----------------------------------: | ------------------------------------- |
 | A table to use the Dragon Ball API  | [![demo][demo]][dragon-ball] | [![GitHub][GitHub]][dragon-ball-git] | [![Angular][Angular.io]][Angular-url] |
 | The Recipes Finder                  |   [![demo][demo]][recipes]   |   [![GitHub][GitHub]][recipes-git]   | [![Angular][Angular.io]][Angular-url] |
 | Pokémon Gen II: A Nostalgia Project |   [![demo][demo]][pokemon]   |   [![GitHub][GitHub]][pokemon-git]   | [![Angular][Angular.io]][Angular-url] |
-| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | .NET, Angular           |
-| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | .NET, Angular          |
-| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3      |
-| A basic sales API               |    x   |    [![GitHub][GitHub]][sales]    | Spring Boot, Java     |
-| The healthcare app              |    x   |    [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |
+| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | .NET, Angular                         |
+| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | .NET, Angular                         |
+| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3                     |
+| A basic sales API                   |              x               |      [![GitHub][GitHub]][sales]      | Spring Boot, Java                     |
+| The healthcare app                  |              x               |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular            |
 
 ---
 
