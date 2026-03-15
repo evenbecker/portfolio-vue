@@ -18,13 +18,31 @@ Developers can use Postman to practice CRUD operations. For Suckless users, it's
 Suckless users are minimalistic Linux/BSD/Haiku software users. The suckless.org community produce software with a focus on minimalism, simplicity and clarity.
 :::
 
-<!--
- Go to the Postman app download page at https://www.getpostman.com/apps. You can choose to download a tar.gz for Linux 64 bit.
+Go to the Postman app download page at [www.getpostman.com/apps](https://www.getpostman.com/apps). You can download a tar.gz for Linux 64 bit.
+Extract the archive:
 
+```bash
 tar -xzf postman-linux-x64.tar.gz
+```
 
- Then move the extracted folder to the /opt directory, `/opt` is the folder intended for third party software that is not part of the core system,
+Then move the extracted folder to the /opt directory. `/opt` is the folder intended for third party software that is not part of the core system.
 
+<CodeGroup>
+<CodeGroupItem title="doas" active>
+
+```bash
 doas mv Postman/ /opt/
 doas ln -sf /opt/Postman/app/Postman /usr/bin
--->
+```
+
+</CodeGroupItem>
+
+<CodeGroupItem title="sudo">
+
+```bash
+sudo mv Postman/ /opt/
+sudo ln -sf /opt/Postman/app/Postman /usr/bin
+```
+
+</CodeGroupItem>
+</CodeGroup>
