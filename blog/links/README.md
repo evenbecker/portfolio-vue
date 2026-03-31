@@ -10,7 +10,7 @@ links:
         desc: You can get infos about Goku, Vegeta and many other characters of Dragon Ball Z
       - sitename: The Recipes Finder
         url: https://even-recipes-finder.netlify.app/
-        img: /img/links/recipes-finder.webp
+        img: /img/links/recipes-finder.jpg
         desc: A frontend for the spoonacular API. Discover thousands of recipes from all around the world!
       - sitename: Pokémon Gen II
         url: https://pokemon-gen2.netlify.app/
@@ -24,12 +24,22 @@ links:
         url: https://even-audio-player.netlify.app/
         img: /img/links/LP.jpg
         desc: A blog about Alternative rock/metal and an audio player with image cover.
+  - title: Projects made with React
+    items:
+      - sitename: NewsEven
+        url: https://github.com/evenbecker/NewsEven
+        img: /img/links/logo-newspaper.jpg
+        desc: A React JS App to show news using News API
+      - sitename: E-commerce Project
+        url: https://github.com/evenbecker/E-commerce-Project
+        img: /img/links/ecommerce-logo.jpg
+        desc: This project interacts with the FakeStoreAPI to fetch product data. The user can browse, filter and purchase products.
   - title: Projects made with Spring Boot and Java
     items:
       - sitename: A basic sales API
         url: https://github.com/evenbecker/basic-sales-API
         img: /img/links/vecteezy_a-blue-arrow-and-a-graph.jpg
-        desc: REST API design to manage sales. The average daily sales can be calculated with custom durations.           
+        desc: REST API design to manage sales. The average daily sales can be calculated with custom durations.
       - sitename: The healthcare app
         url: https://github.com/evenbecker/healthcare
         img: /img/links/medical-logo.jpg

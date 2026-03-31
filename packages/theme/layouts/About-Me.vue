@@ -209,7 +209,7 @@ const pageInfo = computed(() => {
 @import '../src/extended-theme/custom-pages/aboutMe.scss';
 .even-tech-bg-color {
   width: 100%;
-  background-color: rgb(223, 233, 245);
+  background-color: rgb(203, 233, 245);
   padding-bottom: 1rem;
   padding-top: 1rem;
   padding-left: 16px;

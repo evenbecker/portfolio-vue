@@ -18,16 +18,18 @@ An entertaining overview of my projects is
 <a href="../../../../../links/" target="_blank">
 available here</a>.
 
-| Project name                        |             demo             |             source code              | tech stack                            |
-| ----------------------------------- | :--------------------------: | :----------------------------------: | ------------------------------------- |
-| A table to use the Dragon Ball API  | [![demo][demo]][dragon-ball] | [![GitHub][GitHub]][dragon-ball-git] | [![Angular][Angular.io]][Angular-url] |
-| The Recipes Finder                  |   [![demo][demo]][recipes]   |   [![GitHub][GitHub]][recipes-git]   | [![Angular][Angular.io]][Angular-url] |
-| Pokémon Gen II: A Nostalgia Project |   [![demo][demo]][pokemon]   |   [![GitHub][GitHub]][pokemon-git]   | [![Angular][Angular.io]][Angular-url] |
-| An app for ordering food            |              x               |      [![GitHub][GitHub]][food]       | .NET, Angular                         |
-| The Initial D Cars App              |              x               |      [![GitHub][GitHub]][inid]       | .NET, Angular                         |
-| The Alt Rock Station                |    [![demo][demo]][audio]    |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3                     |
-| A basic sales API                   |              x               |      [![GitHub][GitHub]][sales]      | Spring Boot, Java                     |
-| The healthcare app                  |              x               |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular            |
+| Project name                                |             source code              | tech stack                 |
+| ------------------------------------------- | :----------------------------------: | -------------------------- |
+| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React                      |
+| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React                      |
+| A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                    |
+| The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                    |
+| Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                    |
+| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, Angular              |
+| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, Angular              |
+| The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3          |
+| A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java          |
+| The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular |
 
 ---
 
@@ -63,3 +65,5 @@ available here</a>.
 [audio-git]: https://github.com/evenbecker/simple-audio-player
 [audio]: https://even-audio-player.netlify.app/
 [demo]: https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg
+[NewsEven-git]: https://github.com/evenbecker/NewsEven
+[ecommerce-git]: https://github.com/evenbecker/E-commerce-Project
