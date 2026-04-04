@@ -20,8 +20,9 @@ available here</a>.
 
 | Project name                                |             source code              | tech stack                 |
 | ------------------------------------------- | :----------------------------------: | -------------------------- |
-| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React                      |
-| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React                      |
+| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS        |
+| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React, Material UI         |
+| TV guide                                    |     [![GitHub][GitHub]][tv-git]      | React                      |
 | A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                    |
 | The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                    |
 | Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                    |
@@ -67,3 +68,4 @@ available here</a>.
 [demo]: https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/play.svg
 [NewsEven-git]: https://github.com/evenbecker/NewsEven
 [ecommerce-git]: https://github.com/evenbecker/E-commerce-Project
+[tv-git]: https://github.com/evenbecker/TV-guide

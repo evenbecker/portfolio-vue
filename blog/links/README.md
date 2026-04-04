@@ -34,6 +34,10 @@ links:
         url: https://github.com/evenbecker/E-commerce-Project
         img: /img/links/ecommerce-logo.jpg
         desc: This project interacts with the FakeStoreAPI to fetch product data. The user can browse, filter and purchase products.
+      - sitename: TV guide
+        url: https://github.com/evenbecker/TV-guide
+        img: /img/links/popcorn.png
+        desc: This project uses the OMDb API to support you in finding out more about your favourite movies and TV shows.
   - title: Projects made with Spring Boot and Java
     items:
       - sitename: A basic sales API
