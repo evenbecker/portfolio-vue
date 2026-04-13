@@ -18,19 +18,21 @@ An entertaining overview of my projects is
 <a href="../../../../../links/" target="_blank">
 available here</a>.
 
-| Project name                                |             source code              | tech stack                 |
-| ------------------------------------------- | :----------------------------------: | -------------------------- |
-| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS        |
-| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React, Material UI         |
-| TV guide                                    |     [![GitHub][GitHub]][tv-git]      | React                      |
-| A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                    |
-| The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                    |
-| Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                    |
-| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, Angular              |
-| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, Angular              |
-| The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3          |
-| A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java          |
-| The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular |
+| Project name                                |             source code              | tech stack                     |
+| ------------------------------------------- | :----------------------------------: | ------------------------------ |
+| Countries API challenge                     |  [![GitHub][GitHub]][Countries-git]  | React, Material UI, Typescript |
+| Creatella Challenge                         |  [![GitHub][GitHub]][Creatella-git]  | React, Material UI             |
+| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS            |
+| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React, Material UI             |
+| TV guide                                    |     [![GitHub][GitHub]][tv-git]      | React                          |
+| A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                        |
+| The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                        |
+| Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                        |
+| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, Angular                  |
+| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, Angular                  |
+| The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3              |
+| A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java              |
+| The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |
 
 ---
 
@@ -69,3 +71,5 @@ available here</a>.
 [NewsEven-git]: https://github.com/evenbecker/NewsEven
 [ecommerce-git]: https://github.com/evenbecker/E-commerce-Project
 [tv-git]: https://github.com/evenbecker/TV-guide
+[Countries-git]: https://github.com/evenbecker/countries-app
+[Creatella-git]: https://github.com/evenbecker/challenge-creatella

@@ -30,6 +30,14 @@ links:
         url: https://github.com/evenbecker/NewsEven
         img: /img/links/logo-newspaper.jpg
         desc: A React JS App to show news using News API
+      - sitename: Creatella challenge
+        url: https://github.com/evenbecker/challenge-creatella
+        img: /img/links/creatella.png
+        desc: This is my solution to the Creatella code challenge. Products are displayed in a scrollable grid. A random advertisement is inserted after every 20 products.
+      - sitename: Countries API challenge
+        url: https://github.com/evenbecker/countries-app
+        img: /img/links/countries.png
+        desc: This is my solution to the Countries API challenge from Frontend Mentor. You can search for a country, filter countries by region and get more detailed information.
       - sitename: E-commerce Project
         url: https://github.com/evenbecker/E-commerce-Project
         img: /img/links/ecommerce-logo.jpg
