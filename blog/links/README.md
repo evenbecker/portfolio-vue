@@ -24,7 +24,7 @@ links:
         url: https://even-audio-player.netlify.app/
         img: /img/links/LP.jpg
         desc: A blog about Alternative rock/metal and an audio player with image cover.
-  - title: Projects made with React
+  - title: Projects with build instruction
     items:
       - sitename: NewsEven
         url: https://github.com/evenbecker/NewsEven
@@ -46,8 +46,6 @@ links:
         url: https://github.com/evenbecker/TV-guide
         img: /img/links/popcorn.png
         desc: This project uses the OMDb API to support you in finding out more about your favourite movies and TV shows.
-  - title: Projects made with Spring Boot and Java
-    items:
       - sitename: A basic sales API
         url: https://github.com/evenbecker/basic-sales-API
         img: /img/links/vecteezy_a-blue-arrow-and-a-graph.jpg
@@ -55,9 +53,7 @@ links:
       - sitename: The healthcare app
         url: https://github.com/evenbecker/healthcare
         img: /img/links/medical-logo.jpg
-        desc: A full-stack app made with Spring Boot, Java, HyperSQL and Angular. The practitioners can organize and schedule examinations for their patients in different places.
-  - title: Projects made with .NET as backend
-    items:
+        desc: A full-stack app made with Spring Boot, Java, HyperSQL and Angular. The practitioners can organize and schedule examinations for their patients in different places.  
       - sitename: The Initial D Cars App
         url: https://github.com/evenbecker/Initial-D-App
         img: /img/links/First_Stage_logo.jpg
@@ -66,4 +62,9 @@ links:
         url: https://github.com/evenbecker/App-for-ordering-food
         img: /img/links/food.png
         desc: The user can add/remove dish items in a cart. Billing is handled for multiple users.
+      - sitename: The task management app 
+        url: https://github.com/evenbecker/todo-app
+        img: /img/links/to-do-list-icon-3d-illustration.jpg
+        desc: Users can create, edit, and delete tasks with titles and descriptions. An admin dashboard to manage users' data. Real-Time communication with Socket.io. 
+
 ---

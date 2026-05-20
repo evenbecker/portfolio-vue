@@ -28,11 +28,13 @@ available here</a>.
 | A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                        |
 | The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                        |
 | Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                        |
+|  Init freedom website        |   [![GitHub][GitHub]][freedom-git]   | Angular                        |
 | An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, Angular                  |
 | The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, Angular                  |
 | The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3              |
 | A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java              |
 | The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |
+| The task management app   |      [![GitHub][GitHub]][task]       | Angular, Node.js backend, MySQL  |
 
 ---
 
@@ -73,3 +75,5 @@ available here</a>.
 [tv-git]: https://github.com/evenbecker/TV-guide
 [Countries-git]: https://github.com/evenbecker/countries-app
 [Creatella-git]: https://github.com/evenbecker/challenge-creatella
+[freedom-git]: https://init-freedom.netlify.app/
+[task]: https://github.com/evenbecker/todo-app
