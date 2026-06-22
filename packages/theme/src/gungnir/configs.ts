@@ -32,7 +32,7 @@ export const gungnirThemeConfig = gungnirThemeExtended({
   pages,
   navbar,
   themePlugins: {
-    git: isProd,
+    //git: isProd,
     katex: true,
     mdPlus: {
       all: true,
