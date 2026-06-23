@@ -39,7 +39,7 @@ export default defineUserConfig({
         href: `/img/logo/site.webmanifest`,
       },
     ],
-
+['meta', { name: 'google-site-verification', content: 'NMn87HLhaJNXgoy8U_1gwVr6xK8zObtteUAcMxGFnmI' }],
     ['meta', { name: 'application-name', content: 'Even Becker' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'Even Becker' }],
     [
