@@ -66,5 +66,8 @@ links:
         url: https://github.com/evenbecker/todo-app
         img: /img/links/to-do-list-icon-3d-illustration.jpg
         desc: Users can create, edit, and delete tasks with titles and descriptions. An admin dashboard to manage users' data. Real-Time communication with Socket.io. 
-
+      - sitename: Pizza ordering application 
+        url: https://github.com/evenbecker/pizza-order
+        img: /img/links/pizza.png
+        desc: Laravel project to order pizzas and customize pizza with additional ingredients. 
 ---

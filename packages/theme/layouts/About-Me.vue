@@ -154,6 +154,14 @@
               </div>
             </div>
           </div>
+           <div class="pseudo-col">
+            <div class="logo-item">
+              <img src="/img/about/Laravel.svg" alt=" " />
+              <div class="logo-content">
+                <p>Laravel</p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <h2>Miscellaneous</h2>

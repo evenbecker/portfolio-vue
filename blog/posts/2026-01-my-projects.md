@@ -20,6 +20,7 @@ available here</a>.
 
 | Project name                                |             source code              | tech stack                     |
 | ------------------------------------------- | :----------------------------------: | ------------------------------ |
+| Pizza ordering application                     |  [![GitHub][GitHub]][pizza-git]  | React, Tailwind CSS, Laravel |
 | Countries API challenge                     |  [![GitHub][GitHub]][Countries-git]  | React, Material UI, Typescript |
 | Creatella Challenge                         |  [![GitHub][GitHub]][Creatella-git]  | React, Material UI             |
 | NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS            |
@@ -77,3 +78,4 @@ available here</a>.
 [Creatella-git]: https://github.com/evenbecker/challenge-creatella
 [freedom-git]: https://init-freedom.netlify.app/
 [task]: https://github.com/evenbecker/todo-app
+[pizza-git]: https://github.com/evenbecker/pizza-order
