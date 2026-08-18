@@ -26,6 +26,7 @@ available here</a>.
 | NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS            |
 | E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React, Material UI             |
 | TV guide                                    |     [![GitHub][GitHub]][tv-git]      | React                          |
+| A book search app                           |     [![GitHub][GitHub]][book-git]      | React, TypeScript, Tailwind CSS   |
 | A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                        |
 | The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                        |
 | Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                        |
@@ -74,6 +75,7 @@ available here</a>.
 [NewsEven-git]: https://github.com/evenbecker/NewsEven
 [ecommerce-git]: https://github.com/evenbecker/E-commerce-Project
 [tv-git]: https://github.com/evenbecker/TV-guide
+[book-git]: https://github.com/evenbecker/open-library
 [Countries-git]: https://github.com/evenbecker/countries-app
 [Creatella-git]: https://github.com/evenbecker/challenge-creatella
 [freedom-git]: https://init-freedom.netlify.app/

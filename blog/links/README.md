@@ -30,6 +30,10 @@ links:
         url: https://github.com/evenbecker/NewsEven
         img: /img/links/logo-newspaper.jpg
         desc: A React JS App to show news using News API
+      - sitename: A book search app
+        url: https://github.com/evenbecker/open-library
+        img: /img/links/library-logo.jpg
+        desc: This project uses the OpenLibrary API to support you in finding out more about your favourite books.
       - sitename: Creatella challenge
         url: https://github.com/evenbecker/challenge-creatella
         img: /img/links/creatella.png
