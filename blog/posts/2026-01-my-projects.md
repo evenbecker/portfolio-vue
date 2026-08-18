@@ -30,8 +30,8 @@ available here</a>.
 | The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                        |
 | Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                        |
 |  Init freedom website        |   [![GitHub][GitHub]][freedom-git]   | Angular                        |
-| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, Angular                  |
-| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, Angular                  |
+| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, React, MySQL                  |
+| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, MS-SQL, Angular                  |
 | The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3              |
 | A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java              |
 | The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |

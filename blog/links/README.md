@@ -61,7 +61,7 @@ links:
       - sitename: App for ordering food
         url: https://github.com/evenbecker/App-for-ordering-food
         img: /img/links/food.png
-        desc: The user can add/remove dish items in a cart. Billing is handled for multiple users.
+        desc: A food store with user registration and login. The user can place orders and view order history.
       - sitename: The task management app 
         url: https://github.com/evenbecker/todo-app
         img: /img/links/to-do-list-icon-3d-illustration.jpg
