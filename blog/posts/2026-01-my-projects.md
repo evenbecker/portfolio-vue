@@ -20,23 +20,23 @@ available here</a>.
 
 | Project name                                |             source code              | tech stack                     |
 | ------------------------------------------- | :----------------------------------: | ------------------------------ |
-| Pizza ordering application                     |  [![GitHub][GitHub]][pizza-git]  | React, Tailwind CSS, Laravel |
-| Countries API challenge                     |  [![GitHub][GitHub]][Countries-git]  | React, Material UI, Typescript |
-| Creatella Challenge                         |  [![GitHub][GitHub]][Creatella-git]  | React, Material UI             |
-| NewsEven                                    |  [![GitHub][GitHub]][NewsEven-git]   | React, Tailwind CSS            |
-| E-commerce Project                          |  [![GitHub][GitHub]][ecommerce-git]  | React, Material UI             |
-| TV guide                                    |     [![GitHub][GitHub]][tv-git]      | React                          |
-| A book search app                           |     [![GitHub][GitHub]][book-git]      | React, TypeScript, Tailwind CSS   |
-| A table to use the Dragon Ball API          | [![GitHub][GitHub]][dragon-ball-git] | Angular                        |
-| The Recipes Finder [![demo][demo]][recipes] |   [![GitHub][GitHub]][recipes-git]   | Angular                        |
-| Pokémon Gen II: A Nostalgia Project         |   [![GitHub][GitHub]][pokemon-git]   | Angular                        |
-|  Init freedom website        |   [![GitHub][GitHub]][freedom-git]   | Angular                        |
-| An app for ordering food                    |      [![GitHub][GitHub]][food]       | .NET, React, MySQL                  |
-| The Initial D Cars App                      |      [![GitHub][GitHub]][inid]       | .NET, MS-SQL, Angular                  |
-| The Alt Rock Station                        |    [![GitHub][GitHub]][audio-git]    | TypeScript, Vue 3              |
-| A basic sales API                           |      [![GitHub][GitHub]][sales]      | Spring Boot, Java              |
-| The healthcare app                          |   [![GitHub][GitHub]][healthcare]    | Spring Boot, Java, Angular     |
-| The task management app   |      [![GitHub][GitHub]][task]       | Angular, Node.js backend, MySQL  |
+| Pizza ordering application                     |  :earth_americas: [read me][pizza-git]  | React, Tailwind CSS, Laravel |
+| Countries API challenge                     |  :earth_americas: [read me][Countries-git]  | React, Material UI, Typescript |
+| Creatella Challenge                         |  :earth_americas: [read me][Creatella-git]  | React, Material UI             |
+| NewsEven                                    |  :earth_americas: [read me][NewsEven-git]   | React, Tailwind CSS            |
+| E-commerce Project                          |  :earth_americas: [read me][ecommerce-git]  | React, Material UI             |
+| TV guide                                    |     :earth_americas: [read me][tv-git]      | React                          |
+| A book search app                           |     :earth_americas: [read me][book-git]      | React, TypeScript, Tailwind CSS   |
+| A table to use the Dragon Ball API          | :earth_americas: [read me][dragon-ball-git] | Angular                        |
+| The Recipes Finder [![demo][demo]][recipes] |   :earth_americas: [read me][recipes-git]   | Angular                        |
+| Pokémon Gen II: A Nostalgia Project         |   :earth_americas: [read me][pokemon-git]   | Angular                        |
+|  Init freedom website        |   :earth_americas: [read me][freedom-git]   | Angular                        |
+| An app for ordering food                    |      :earth_americas: [read me][food]       | .NET, React, MySQL                  |
+| The Initial D Cars App                      |      :earth_americas: [read me][inid]       | .NET, MS-SQL, Angular                  |
+| The Alt Rock Station                        |    :earth_americas: [read me][audio-git]    | TypeScript, Vue 3              |
+| A basic sales API                           |      :earth_americas: [read me][sales]      | Spring Boot, Java              |
+| The healthcare app                          |   :earth_americas: [read me][healthcare]    | Spring Boot, Java, Angular     |
+| The task management app   |      :earth_americas: [read me][task]       | Angular, Node.js backend, MySQL  |
 
 ---
 
