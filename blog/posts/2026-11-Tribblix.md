@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Is Tribblix the last resort?
+title: Is Tribblix the best OS?
 subtitle: secure desktop-oriented Operating Systems 
 author: Even Becker
 date: 2026-11-01
@@ -14,11 +14,12 @@ tags:
 
 
 
-## Security criteria when choosing an OS
+## Criteria when choosing an OS
 
-Some people think that GhostBSD is the most secure desktop-oriented OS. However GhostBSD comes with tools blacklisted by Hyperbola, namely Gvfs, LightDM, rust and polkit. In addition, GhostBSD has ASLR weaknesses. AntiX-core with Linux kernel 5.10 might be a better choice. Indeed, this old LTS kernel has a very small attack surface and no rust. AntiX can mount removable devices with udevil or pmount, so it's Gvfs-free. However LTS will not last forever: In some years, kernel 5.10 will not get security patches. Gentoo has already drop this kernel. As of writting, it's still available in Void Linux but it will be removed soon. So I look for other secure desktop-oriented Operating Systems. Tribblix may be the only one.  
+Some people think that GhostBSD is the most secure desktop-oriented OS. However GhostBSD comes with tools blacklisted by Hyperbola, namely Gvfs, LightDM, rust and polkit. In addition, GhostBSD has ASLR weaknesses. AntiX-core with Linux kernel 5.10 might be a better choice. Indeed, this old LTS kernel has a very small attack surface and no rust. AntiX can mount removable devices with udevil or pmount, so it's Gvfs-free. However LTS will not last forever: In some years, kernel 5.10 will not get security patches anymore. Gentoo has already drop this kernel. As of writting, it's still available in Void Linux but it will be removed soon. So I look for other secure desktop-oriented Operating Systems. NetBSD and OpenBSD are secure but it's not easy to install and setup. 
+MidnightBSD looks good. It has Ravenports integration but Ravenports don't provide the browsers I need: Librewolf or Waterfox. Tribblix may be the only OS that meets the criteria.  
 
- ## Tribblix strenght
+ ## Tribblix strength
 
  ![Image](/img/in-post/small/Tribblix.png)
 
