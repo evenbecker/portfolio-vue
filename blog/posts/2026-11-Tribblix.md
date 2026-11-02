@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Is Tribblix the best OS?
+title: MidnightBSD and Tribblix
 subtitle: secure desktop-oriented Operating Systems 
 author: Even Becker
 date: 2026-11-01
@@ -23,9 +23,13 @@ Some people think that GhostBSD is the most secure desktop-oriented OS. However 
 :::
 
 AntiX can mount removable devices with udevil or pmount, so it's Gvfs-free. However LTS will not last forever: In some years, kernel 5.10 will not get security patches anymore. Gentoo has already drop this kernel. As of writing, it's still available in Void Linux but it will be removed soon. So I look for other secure desktop-oriented Operating Systems. NetBSD and OpenBSD are secure but it's not easy to install and setup. 
-MidnightBSD looks good. It has Ravenports integration but Ravenports don't provide the browsers I need: Librewolf or Waterfox. Tribblix may be the only OS that meets the criteria.  
 
- ## Tribblix strength
+## MidnightBSD
+
+MidnightBSD looks very good. Waterfox is available. This is great. Waterfox is not available in NetBSD. 
+MidnightBSD has Ravenports integration. This allows the installation of the lastest version of Firefox.  
+
+ ## Tribblix
 
  ![Image](/img/in-post/small/Tribblix.png)
 
